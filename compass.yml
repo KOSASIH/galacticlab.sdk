@@ -1,0 +1,13 @@
+name: Galacticlab
+id: 'ari:cloud:compass:aec06607-98a2-4b15-854b-7c62a955f18d:component/c2190053-d13d-4d56-afb4-1827de42ac96/18f3724d-fed7-485a-b9b6-8294880d1f7e'
+description: null
+ownerId: 'ari:cloud:teams::team/1435eb7b-e7ab-404c-b0ee-13f62600c3b8'
+fields: {}
+links: []
+relationships:
+  DEPENDS_ON:
+    - 'ari:cloud:compass:aec06607-98a2-4b15-854b-7c62a955f18d:component/c2190053-d13d-4d56-afb4-1827de42ac96/f7c72ee9-2d03-4164-a73c-d1b97759e64c'
+    - 'ari:cloud:compass:aec06607-98a2-4b15-854b-7c62a955f18d:component/c2190053-d13d-4d56-afb4-1827de42ac96/3387d0e6-59c5-4626-8ac5-8a56ed9ef1ad'
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
